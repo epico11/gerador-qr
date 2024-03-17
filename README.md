@@ -1,2 +1,2 @@
-[Click aqui](https://epico11.github.io/gerador-qr/)
+[Link de acesso à página](https://epico11.github.io/gerador-qr/)
 ---
